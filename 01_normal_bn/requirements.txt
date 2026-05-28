@@ -1,0 +1,10 @@
+# Python dependencies for 01_normal_bn Monte Carlo generation
+# Install JAX with CUDA support for GPU acceleration:
+#   pip install jax[cuda12]
+# Or for CPU-only:
+#   pip install jax
+
+numpy>=1.24.0
+scipy>=1.11.0
+jax>=0.4.20
+matplotlib>=3.7.0
