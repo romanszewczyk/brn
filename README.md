@@ -140,18 +140,10 @@ where `alpha(r)` is the exact population variance scaling factor of the truncate
 
 ## Citation
 
-If you use this code or data, please cite:
+If you use this code or data, please cite: 
 
-```bibtex
-@article{szewczyk2025bias,
-  title={Data-driven bias correction of standard deviation estimators via symbolic regression:
-         compact formulas for normal and symmetrically truncated distributions
-         in industrial measurement applications},
-  author={Szewczyk, Roman and Szumiata, Tadeusz and Nowicki, Michal},
-  journal={Meas. Sci. Technol.},
-  year={2025}
-}
-```
+[to be added]
+
 
 ## Empirical Validation
 
